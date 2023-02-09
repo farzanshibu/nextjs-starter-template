@@ -19,7 +19,7 @@ Developer experience first:
 - 📓 Write standard compliant commit messages with Commitizen
 - 🎁 Automatic changelog generation with Semantic Release
 - 🔍 Visual testing with Percy (Optional)
-- 💡 Absolute Imports using `@` prefix
+- 💡 Absolute Imports using `~` prefix
 - 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript
 - 🤖 SEO metadata, JSON-LD and Open Graph tags with Next SEO
 - 🗺️ Sitemap.xml and robots.txt with next-sitemap
