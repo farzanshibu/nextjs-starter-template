@@ -22,7 +22,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "prettier.ignorePath": ".gitignore", // Don't run prettier for files listed in .gitignore
-  "typescript.tsdk": "node_modules/.pnpm/typescript@4.9.5/node_modules/typescript/lib",
+  "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "[typescriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
